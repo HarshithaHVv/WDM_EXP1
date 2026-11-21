@@ -78,8 +78,6 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 <img width="1192" height="701" alt="Screenshot 2026-11-21 135019" src="https://github.com/user-attachments/assets/93aed8bd-e22e-4823-ad15-3e8c8632c210" />
-<img width="1915" height="1011" alt="Screenshot 2026-10-10 104827" src="https://github.com/user-attachments/assets/0dc42266-74b3-4711-b68b-08a9324fd169" />
-<img width="1235" height="740" alt="Screenshot 2026-11-21 134249" src="https://github.com/user-attachments/assets/ff9241ff-4387-445f-a958-af216ac56355" />
 
 ### 2) Remove -> Pre-Processing Technique:
 
